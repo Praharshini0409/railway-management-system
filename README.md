@@ -28,7 +28,7 @@ A Spring Boot-based Railway Management System that provides REST APIs for managi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/railway-management-system.git
+git clone https://github.com/Praharshini0409/railway-management-system.git
 ```
 
 2. Navigate to the project directory:
@@ -91,4 +91,4 @@ The application uses H2 database in development. You can access the H2 console a
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
